@@ -1,0 +1,18 @@
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\bin\Debug\MyProject.exe.config
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\bin\Debug\MyProject.exe
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\bin\Debug\MyProject.pdb
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.exe
+D:\Siyam - 1285124\Round-61\C Sharp\C_Sharp\Practise\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.pdb
+E:\Round-61\Module_3\C_Sharp\Practise\September\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+E:\Round-61\Module_3\C_Sharp\Practise\September\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+E:\Round-61\Module_3\C_Sharp\Practise\September\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.exe
+E:\Round-61\Module_3\C_Sharp\Practise\September\4th September\MyProjectSln\MyProject\obj\Debug\MyProject.pdb
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\bin\Debug\MyProject.exe.config
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\bin\Debug\MyProject.exe
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\bin\Debug\MyProject.pdb
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\obj\Debug\MyProject.exe
+E:\GitHub\Exam-2\Final-2\CSharp\MyProjectSln\MyProject\obj\Debug\MyProject.pdb
