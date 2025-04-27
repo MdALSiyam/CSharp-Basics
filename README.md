@@ -1,6 +1,6 @@
 
 ---
-# MyProject
+# CSharp Project
 
 This is a basic C# console application designed to practice and demonstrate core programming concepts.  
 The project includes the following key methods:
